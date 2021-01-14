@@ -1,6 +1,9 @@
 body{
     font-family: 'Merriweather', serif;
 }
-.navbar-brand{
-    width: 100px;
+.col-md{
+    width: 10px;
+    height: 100px;
+    position: left;
+
 }
