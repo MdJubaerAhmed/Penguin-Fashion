@@ -1,8 +1,21 @@
 body{
     font-family: 'Merriweather', serif;
+    height: 100px;
 }
 .col-md{
     width: 10px;
     height: 100px;
     position: left;
+}
+.PENGUIN-card{
+    border: 0;
+
+}
+.PENGUIN-card-footer{
+    background-color: white;
+    border: 0;
+}
+.carousel-inner h1{
+    color: orange;
+
 }
